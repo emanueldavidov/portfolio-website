@@ -9,37 +9,37 @@ export const THEMES: ThemeInfo[] = [
   {
     name: 'GitHub Dark',
     theme: 'github-dark',
-    icon: '/themes/github-dark.png',
+    icon: '/portfolio-website/themes/github-dark.png',
     publisher: 'GitHub',
   },
   {
     name: 'Dracula',
     theme: 'dracula',
-    icon: '/themes/dracula.png',
+    icon: '/portfolio-website/themes/dracula.png',
     publisher: 'Dracula Theme',
   },
   {
     name: 'Ayu Dark',
     theme: 'ayu-dark',
-    icon: '/themes/ayu.png',
+    icon: '/portfolio-website/themes/ayu.png',
     publisher: 'teabyii',
   },
   {
     name: 'Ayu Mirage',
     theme: 'ayu-mirage',
-    icon: '/themes/ayu.png',
+    icon: '/portfolio-website/themes/ayu.png',
     publisher: 'teabyii',
   },
   {
     name: 'Nord',
     theme: 'nord',
-    icon: '/themes/nord.png',
+    icon: '/portfolio-website/themes/nord.png',
     publisher: 'arcticicestudio',
   },
   {
     name: 'Night Owl',
     theme: 'night-owl',
-    icon: '/themes/night-owl.png',
+    icon: '/portfolio-website/themes/night-owl.png',
     publisher: 'sarah.drasner',
   },
 ];
