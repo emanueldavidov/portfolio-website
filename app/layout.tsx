@@ -26,8 +26,8 @@ export const metadata: Metadata = {
     title: "Emanuel Davidov's Professional Portfolio",
     description:
       "Explore the technical projects and engineering expertise of Emanuel Davidov, featuring high-concurrency systems and AI-driven applications.",
-    images: ['/logos/myphoto.jpg'], // ניתן להחליף בתמונה אישית בתיקיית public
-    url: 'https://your-domain.com', // עדכן כאן כשתעלה את האתר לאוויר
+    images: ['/portfolio-website/logos/my_photo.jpg'],
+    url: 'https://emanueldavidov.github.io/portfolio-website/', 
   },
   twitter: {
     card: 'summary_large_image',

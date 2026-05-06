@@ -20,7 +20,7 @@ const Bottombar = ({ onTerminalToggle, isTerminalOpen }: BottombarProps) => {
     <footer className={styles.bottomBar}>
       <div className={styles.container}>
         <a
-          href="https://your-domain.com" // עדכן כאן כשתעלה את האתר לאוויר
+          href="https://github.com/emanueldavidov/portfolio-website" 
           target="_blank"
           rel="noreferrer noopener"
           className={styles.section}

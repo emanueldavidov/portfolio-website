@@ -9,22 +9,22 @@ const explorerItems = [
   {
     name: 'home.tsx',
     path: '/',
-    icon: '/logos/react_icon.svg',
+    icon: '/portfolio-website/logos/react_icon.svg',
   },
   {
     name: 'about.html',
     path: '/about',
-    icon: '/logos/html_icon.svg',
+    icon: '/portfolio-website/logos/html_icon.svg',
   },
   {
     name: 'contact.css',
     path: '/contact',
-    icon: '/logos/css_icon.svg',
+    icon: '/portfolio-website/logos/css_icon.svg',
   },
   {
     name: 'projects.js',
     path: '/projects',
-    icon: '/logos/js_icon.svg',
+    icon: '/portfolio-website/logos/js_icon.svg',
   },
 ];
 
