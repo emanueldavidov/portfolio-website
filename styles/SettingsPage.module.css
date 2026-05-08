@@ -56,7 +56,7 @@
   margin: 0;
   font-size: 15px;
   line-height: 1.7;
-  color: var(--explorer-border);
+  color: var(--text-color);
   max-width: 480px;
 }
 
