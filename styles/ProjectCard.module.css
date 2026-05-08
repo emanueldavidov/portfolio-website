@@ -39,7 +39,7 @@
 .number span {
   font-family: var(--font-mono);
   font-size: 12px;
-  color: rgba(255, 255, 255, 0.4);
+  color: var(--text-color);
   font-weight: 500;
 }
 
@@ -113,12 +113,14 @@
   margin: 0;
   font-size: 14px;
   line-height: 1.65;
-  color: rgba(255, 255, 255, 0.55);
-  transition: color 0.2s ease;
+  color: var(--text-color);
+  transition: all 0.2s ease;
 }
 
 .card:hover .description {
-  color: rgba(255, 255, 255, 0.7);
+  color: var(--text-color);
+  text-shadow: 0 0 1px var(--text-color);
+  transform: translateX(4px);
 }
 
 .action {

@@ -177,3 +177,63 @@
   --terminal-header-bg: #011627;
   --terminal-border: #262a39;
 }
+
+/* GitHub Light */
+[data-theme='github-light'] {
+  --main-bg: #ffffff;
+  --bg-text: rgba(0, 0, 0, 0.05);
+  --text-color: #24292e;
+  --accent-color: #0366d6;
+  --accent-color-rgb: 3, 102, 214;
+  --titlebar-bg: #e1e4e8;
+  --sidebar-bg: #f6f8fa;
+  --sidebar-hover-bg: #e1e4e8;
+  --explorer-bg: #f6f8fa;
+  --explorer-hover-bg: #e1e4e8;
+  --explorer-border: #d1d5da;
+  --tabs-bg: #f6f8fa;
+  --tab-bg: #f6f8fa;
+  --tab-active-bg: #ffffff;
+  --tab-border: #e1e4e8;
+  --bottombar-bg: #0366d6;
+  --bottombar-border: #0366d6;
+  --button-bg: #2ea44f;
+  --button-text: #ffffff;
+  --bottombar-hover-bg: #005cc5;
+  --scrollbar-track-bg: #ffffff;
+  --scrollbar-thumb-bg: #d1d5da;
+  --article-bg: #ffffff;
+  --terminal-bg: #f6f8fa;
+  --terminal-header-bg: #e1e4e8;
+  --terminal-border: #d1d5da;
+}
+
+/* One Dark Pro */
+[data-theme='one-dark-pro'] {
+  --main-bg: #282c34;
+  --bg-text: #2c313a;
+  --text-color: #abb2bf;
+  --accent-color: #61afef;
+  --accent-color-rgb: 97, 175, 239;
+  --titlebar-bg: #21252b;
+  --sidebar-bg: #21252b;
+  --sidebar-hover-bg: #2c313a;
+  --explorer-bg: #21252b;
+  --explorer-hover-bg: #2c313a;
+  --explorer-border: #181a1f;
+  --tabs-bg: #21252b;
+  --tab-bg: #21252b;
+  --tab-active-bg: #282c34;
+  --tab-border: #181a1f;
+  --bottombar-bg: #21252b;
+  --bottombar-border: #181a1f;
+  --button-bg: #3e4451;
+  --button-text: #abb2bf;
+  --bottombar-hover-bg: #333842;
+  --scrollbar-track-bg: #282c34;
+  --scrollbar-thumb-bg: #4b5263;
+  --article-bg: #2c313a;
+  --terminal-bg: #282c34;
+  --terminal-header-bg: #21252b;
+  --terminal-border: #181a1f;
+}

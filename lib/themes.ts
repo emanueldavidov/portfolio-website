@@ -42,6 +42,18 @@ export const THEMES: ThemeInfo[] = [
     icon: '/portfolio-website/themes/night-owl.png',
     publisher: 'sarah.drasner',
   },
+  {
+    name: 'GitHub Light',
+    theme: 'github-light',
+    icon: '/portfolio-website/themes/github-light.png',
+    publisher: 'GitHub',
+  },
+  {
+    name: 'One Dark Pro',
+    theme: 'one-dark-pro',
+    icon: '/portfolio-website/themes/one-dark-pro.png', 
+    publisher: 'binaryify',
+  },
 ];
 
 export const THEME_KEYS = THEMES.map(t => t.theme) as [string, ...string[]];
