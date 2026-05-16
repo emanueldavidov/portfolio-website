@@ -16,12 +16,13 @@ export const projects: Project[] = [
     slug: 'digital-philologist',
   },
   {
-    title: 'Multi-threaded Chat System',
+    title: 'Hardened TCP Messaging Infrastructure',
     description:
-      'High-concurrency Java server with Prometheus/Grafana monitoring. Containerized using Docker Compose with 200+ validated connections.',
+      `High-concurrency Java server hardened with TLS/SSL encryption and secure non-root Alpine containers.
+      Monitored via Prometheus/Grafana and backed by an automated DevSecOps CI pipeline (Semgrep, Snyk, Trivy).`,
     logo: '/portfolio-website/logos/java-icon.svg', 
     link: 'https://github.com/emanueldavidov/Java-Chat-System',
-    slug: 'multi-threaded-chat',
+    slug: 'hardened-tcp-messaging',
   },
   {
     title: 'NutriPlus',
